@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+firebase-admin
+langchain
+langchain-community
+faiss-cpu
+pypdf
+google-generativeai
+python-dotenv
+sqlalchemy
+feedparser
+passlib[argon2]
+argon2-cffi
+
