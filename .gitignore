@@ -1,3 +1,5 @@
 # Backend Dat
 uploads/
 faiss_index/
+constitution.pdf/
+.env
